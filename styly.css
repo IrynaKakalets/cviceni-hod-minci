@@ -71,6 +71,7 @@ body {
 }
 
 @media (prefers-reduced-motion: no-preference) {
+
 	.mince--orel .mince__obrazek,
 	.mince--panna .mince__obrazek {
 		animation-name: flip;
